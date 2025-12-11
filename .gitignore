@@ -1,0 +1,17 @@
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Mistaken or external folders
+_assets/
+kit-app-template/
+USD/
+
+# Python cache
+__pycache__/
+
+# System files
+.DS_Store
+Thumbs.db
